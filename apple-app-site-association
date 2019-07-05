@@ -3,9 +3,7 @@
     "apps": [],
     "details": [{
       "appID": "743SBX35NV.io.consensuslab.testUniversalLink1",
-      "paths": [
-        "*"
-      ]
+      "paths": ["*"]
     }]
   }
 }
